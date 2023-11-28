@@ -3,7 +3,7 @@
 
 - 🌱 This is a repository for EmpowerWhiz developments.
 - 👯 Everyone is welcome to contribute.
-- 📞Contact us : [076 557 7610](tel:0765577610)
+- 📞Contact us : <a href="tel:0765577610">076 557 7610</a>
 
 # Contributors ✨
 
