@@ -1,8 +1,9 @@
 # Hi there 👋, We are EmpowerWhiz
 - Empowering Minds, Inspiring Futures
 
-- 🌱 This is a repository for C programming related questions.
+- 🌱 This is a repository for EmpowerWhiz developments.
 - 👯 Everyone is welcome to contribute.
+- 📞Contact us : [076 557 7610](tel:0765577610)
 
 # Contributors ✨
 
