@@ -42,8 +42,7 @@ Thanks goes to these wonderful people :heart:
             <sub><b>Tharusha Dilhara</b></sub>
         </a>
     </td>
-<tr>
-    <td align="center">
+   <td align="center">
         <a href="https://github.com/AshenWijesingha">
             <img src="https://avatars.githubusercontent.com/u/66056859?v=4" width="100(px);" alt="AshenWijesingha"/>
             <br />
@@ -57,5 +56,6 @@ Thanks goes to these wonderful people :heart:
             <sub><b>Tharusha Dilhara</b></sub>
         </a>
     </td>
+<tr>
 </table>
 <!-- readme: contributors -end -->
