@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# We are EmpowerWhiz
+## Hi there 👋, We are EmpowerWhiz
 Empowering Minds, Inspiring Futures
 
 # Vision: 
