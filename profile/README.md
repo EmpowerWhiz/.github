@@ -1,6 +1,5 @@
 # Hi there 👋, We are EmpowerWhiz
-- Empowering Minds, Inspiring Futures
-
+- 👾 Empowering Minds, Inspiring Futures
 - 🌱 This is a repository for EmpowerWhiz developments.
 - 👯 Everyone is welcome to contribute.
 - 📞Contact us : <a href="tel:0765577610">076 557 7610</a>
