@@ -43,6 +43,13 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
    <td align="center">
+        <a href="https://github.com/sahassrika">
+            <img src="https://avatars.githubusercontent.com/u/136481875?v=4" width="100(px);" alt="sahassrika"/>
+            <br />
+            <sub><b>sahassrika</b></sub>
+        </a>
+    </td>
+   <td align="center">
         <a href="https://github.com/Dilsha-thathsarani">
             <img src="https://avatars.githubusercontent.com/u/86911572?v=4" width="100(px);" alt="Dilsha Thathsarani"/>
             <br />
