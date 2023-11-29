@@ -43,10 +43,10 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
    <td align="center">
-        <a href="https://github.com/AshenWijesingha">
+        <a href=https://avatars.githubusercontent.com/u/86911572?v=4">
             <img src="https://avatars.githubusercontent.com/u/66056859?v=4" width="100(px);" alt="AshenWijesingha"/>
             <br />
-            <sub><b>Ashen_Wijesingha</b></sub>
+            <sub><b>Dilsha Thathsarani</b></sub>
         </a>
     </td>
     <td align="center">
