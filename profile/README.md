@@ -43,17 +43,17 @@ Thanks goes to these wonderful people :heart:
         </a>
     </td>
    <td align="center">
-        <a href=https://avatars.githubusercontent.com/u/86911572?v=4">
+        <a href="https://github.com/Dilsha-thathsarani">
             <img src="https://avatars.githubusercontent.com/u/86911572?v=4" width="100(px);" alt="Dilsha Thathsarani"/>
             <br />
             <sub><b>Dilsha Thathsarani</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/tharusha-dilhara-dev">
-            <img src="https://avatars.githubusercontent.com/u/146109738?v=4" width="100(px);" alt="tharusha-dilhara-dev"/>
+        <a href="https://github.com/DThiwanka">
+            <img src="https://avatars.githubusercontent.com/u/86193439?v=4" width="100(px);" alt="Dulaj Thiwanka"/>
             <br />
-            <sub><b>Tharusha Dilhara</b></sub>
+            <sub><b>Dulaj Thiwanka</b></sub>
         </a>
     </td>
 <tr>
