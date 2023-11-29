@@ -44,7 +44,7 @@ Thanks goes to these wonderful people :heart:
     </td>
    <td align="center">
         <a href=https://avatars.githubusercontent.com/u/86911572?v=4">
-            <img src="https://avatars.githubusercontent.com/u/66056859?v=4" width="100(px);" alt="AshenWijesingha"/>
+            <img src="https://avatars.githubusercontent.com/u/86911572?v=4" width="100(px);" alt="Dilsha Thathsarani"/>
             <br />
             <sub><b>Dilsha Thathsarani</b></sub>
         </a>
