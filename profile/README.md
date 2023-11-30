@@ -70,6 +70,13 @@ Thanks goes to these wonderful people :heart:
             <sub><b>Bashitha Weerapperuma</b></sub>
         </a>
     </td>
+   <td align="center">
+        <a href="https://github.com/DasharathaBhanu">
+            <img src="https://avatars.githubusercontent.com/u/141001703?v=4" width="100(px);" alt="Dasharatha Bhanu"/>
+            <br />
+            <sub><b>Dasharatha Bhanu</b></sub>
+        </a>
+    </td>
 <tr>
 </table>
 <!-- readme: contributors -end -->
